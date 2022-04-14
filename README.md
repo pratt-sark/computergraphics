@@ -8,17 +8,19 @@ g++ test.cpp -o test_result.out -lGL -lGLU -lglut -lm
 
 
 ## SETUP
-#### For Ubuntu
+### For Ubuntu
 ##### Relatively Easy Installation for Ubuntu
 
-* Open your terminal and update the repository using command: '''sudo apt update''' . After entering your password your update will be done .
-* Type the following command : '''sudo apt-get install freeglut3-dev'''
+* Open your terminal and update the repository using command: **sudo apt update** . After entering your password your update will be done .
+* Type the following command : **sudo apt-get install freeglut3-dev**
 * After completion, run a program to check successful installation.
 
-#### For Windows
+### For Windows
 ##### Can't find definite installation steps, so I used WSL.
 
 * Install [WSL1](https://docs.microsoft.com/en-us/windows/wsl/install).
+* Open your terminal and update the repository using command: **sudo apt update** . After entering your password your update will be done .
+* Type the following command : **sudo apt-get install freeglut3-dev**
 * Install [VcXsrv](https://sourceforge.net/projects/vcxsrv/) and start a xserver.
 * Choose 'One Large Window' option. 
 * Open Linux Shell and run OpenGL programs.
