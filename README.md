@@ -11,8 +11,8 @@ g++ test.cpp -o test_result.out -lGL -lGLU -lglut -lm
 ### For Ubuntu
 ##### Relatively Easy Installation for Ubuntu
 
-* Open your terminal and update the repository using command: **sudo apt update** . After entering your password your update will be done .
-* Type the following command : **sudo apt-get install freeglut3-dev**
+* Open your terminal and update the repository using command: _**sudo apt update**_ . After entering your password your update will be done .
+* Type the following command : _**sudo apt-get install freeglut3-dev**_
 * After completion, run a program to check successful installation.
 
 ### For Windows
