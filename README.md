@@ -1,13 +1,13 @@
 # Computer Graphics (OPENGL Codes)
 
--------Compilation-------
+### Compilation
 g++ test.cpp -o test_result.out -lGL -lGLU -lglut -lm
 
-------Run--------
+### Run 
 ./test_result.out
 
 
------------------------------SETUP----------------------------------------------
+## SETUP
 #### For Windows
 ##### Can't find definite installation steps, so I used WSL.
 
