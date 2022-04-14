@@ -1,5 +1,22 @@
 # Computer Graphics (OPENGL Codes)
 
+-------Compilation-------
+g++ test.cpp -o test_result.out -lGL -lGLU -lglut -lm
+
+------Run--------
+./test_result.out
+
+
+-----------------------------SETUP----------------------------------------------
+#### For Windows
+##### Can't find definite installation steps, so I used WSL.
+
+* Install [WSL1](https://docs.microsoft.com/en-us/windows/wsl/install).
+* Install [VcXsrv](https://sourceforge.net/projects/vcxsrv/) and start a xserver.
+* Choose 'One Large Window' option. 
+* Open Linux Shell and run OpenGL programs.
+--------------------------------------------------------------------------------
+
 ### [Use OpenGL Library to: ]
 
 Q1. Write a program in C to draw a line by using DDA algorithm when two points are given.
