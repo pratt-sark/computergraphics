@@ -28,6 +28,7 @@ g++ test.cpp -o test_result.out -lGL -lGLU -lglut -lm
 ### Troubleshooting - Helpful Links
 * [_failed to open display freeglut ''_](https://github.com/microsoft/WSL/issues/4106) 
 * [_DISPLAY not set_](https://askubuntu.com/questions/432255/what-is-the-display-environment-variable)
+* [*Interesting Read on X Windows DISPLAY Environment Variable*](https://superuser.com/questions/368530/understanding-x-windows-display-environment-variable-when-tunnelling)
 
 --------------------------------------------------------------------------------
 
