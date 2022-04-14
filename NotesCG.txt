@@ -1,11 +1,12 @@
 -------Compilation-------
-g++ test.cpp -o test_result.out -lGL -lGLU -lglut
+g++ test.cpp -o test_result.out -lGL -lGLU -lglut -lm
 
 ------Run--------
-./test_out.out
+./test_result.out
 
 
 --------SETUP--------
-Install WSL1.
-Install VcXsrv (https://sourceforge.net/projects/vcxsrv/) and start a xserver.
-Open Linux Shell and run opengl programs.
+Install [WSL1](https://docs.microsoft.com/en-us/windows/wsl/install).
+Install [VcXsrv] (https://sourceforge.net/projects/vcxsrv/) and start a xserver.
+Choose 'One Large Window' option. 
+Open Linux Shell and run OpenGL programs.
