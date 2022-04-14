@@ -21,9 +21,12 @@ g++ test.cpp -o test_result.out -lGL -lGLU -lglut -lm
 * Install [WSL1](https://docs.microsoft.com/en-us/windows/wsl/install).
 * Open your terminal and update the repository using command: **sudo apt update** . After entering your password your update will be done .
 * Type the following command : **sudo apt-get install freeglut3-dev**
-* Install [VcXsrv](https://sourceforge.net/projects/vcxsrv/) and start a xserver.
+* Install [VcXsrv](https://sourceforge.net/projects/vcxsrv/) and start a xserver (using XLaunch).
 * Choose 'One Large Window' option. 
 * Open Linux Shell and run OpenGL programs.
+
+### Troubleshooting - Helpful Links
+* [_failed to open display freeglut ''_](https://github.com/microsoft/WSL/issues/4106) 
 
 --------------------------------------------------------------------------------
 
