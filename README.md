@@ -45,3 +45,13 @@ g++ test.cpp -o test_result.out -lGL -lGLU -lglut -lm
 4. Write a program in C to draw a line by using Bresenham Line Drawing Algorithm when two points are given.
 
 5. Write a program in C to draw two parallel lines when two points are given for the first line and one point as starting point where x−value is same as in the starting point of the first line and y−value is increased by n (a natural number) for the second line by using Bresenham Line Drawing Algorithm.
+
+6. Write a program in C to draw an n-sided polygon by using Bresenham’s line drawing algorithm when n points are given as input.
+
+7. Write a program in C to draw a circle by using midpoint circle drawing algorithm.
+
+8. Write a program in C to draw n concentric circles by using midpoint circle drawing algorithm.
+ 
+9. Write a program in C to draw an ellipse by using midpoint ellipse drawing algorithm.
+  
+10. Write a program in C to draw n concentric ellipses by using midpoint ellipse drawing algorithm where the ratio of the greater diameter and the shorter diameter is same for all the ellipses.   
